@@ -1,0 +1,1 @@
+ALTER TABLE `assessmentAttempts` MODIFY COLUMN `answers` text NOT NULL;

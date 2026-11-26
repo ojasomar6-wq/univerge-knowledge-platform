@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789065181169,
+      "tag": "0000_loose_magneto",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789065218968,
+      "tag": "0001_rainy_jazinda",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789065764497,
+      "tag": "0002_chilly_roulette",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789065797079,
+      "tag": "0003_marvelous_magneto",
+      "breakpoints": true
+    }
+  ]
+}
